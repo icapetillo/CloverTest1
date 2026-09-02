@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\DotNetPractice\\CloverTest1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|c:\\repos\\dotnetpractice\\clovertest1\\clovertest1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|solutionrelative:clovertest1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|c:\\repos\\dotnetpractice\\clovertest1\\clovertest1\\domain\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|solutionrelative:clovertest1\\domain\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|c:\\repos\\dotnetpractice\\clovertest1\\clovertest1\\data\\migrations\\20250610_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|solutionrelative:clovertest1\\data\\migrations\\20250610_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|c:\\repos\\dotnetpractice\\clovertest1\\clovertest1\\database\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|solutionrelative:clovertest1\\database\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|c:\\repos\\dotnetpractice\\clovertest1\\clovertest1\\clovertest1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|solutionrelative:clovertest1\\clovertest1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|c:\\repos\\dotnetpractice\\clovertest1\\clovertest1\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|solutionrelative:clovertest1\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|c:\\repos\\dotnetpractice\\clovertest1\\clovertest1\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|solutionrelative:clovertest1\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|c:\\repos\\dotnetpractice\\clovertest1\\clovertest1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|solutionrelative:clovertest1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|c:\\repos\\dotnetpractice\\clovertest1\\clovertest1\\services\\itenantprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|solutionrelative:clovertest1\\services\\itenantprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|c:\\repos\\dotnetpractice\\clovertest1\\clovertest1\\services\\tenantprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|solutionrelative:clovertest1\\services\\tenantprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|c:\\repos\\dotnetpractice\\clovertest1\\clovertest1\\services\\clover\\icloverclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|solutionrelative:clovertest1\\services\\clover\\icloverclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|c:\\repos\\dotnetpractice\\clovertest1\\clovertest1\\services\\clover\\cloverclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|solutionrelative:clovertest1\\services\\clover\\cloverclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|c:\\repos\\dotnetpractice\\clovertest1\\clovertest1\\services\\clover\\cloveroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|solutionrelative:clovertest1\\services\\clover\\cloveroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|c:\\repos\\dotnetpractice\\clovertest1\\clovertest1\\services\\clover\\models\\cloveritemsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|solutionrelative:clovertest1\\services\\clover\\models\\cloveritemsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|c:\\repos\\dotnetpractice\\clovertest1\\clovertest1\\services\\clover\\models\\cloveritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|solutionrelative:clovertest1\\services\\clover\\models\\cloveritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|c:\\repos\\dotnetpractice\\clovertest1\\clovertest1\\services\\filtering\\iproductfilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|solutionrelative:clovertest1\\services\\filtering\\iproductfilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|c:\\repos\\dotnetpractice\\clovertest1\\clovertest1\\services\\filtering\\productfilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|solutionrelative:clovertest1\\services\\filtering\\productfilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|c:\\repos\\dotnetpractice\\clovertest1\\clovertest1\\controllers\\clovercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|solutionrelative:clovertest1\\controllers\\clovercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|c:\\repos\\dotnetpractice\\clovertest1\\clovertest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|solutionrelative:clovertest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|c:\\repos\\dotnetpractice\\clovertest1\\clovertest1\\data\\dbseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|solutionrelative:clovertest1\\data\\dbseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|c:\\repos\\dotnetpractice\\clovertest1\\clovertest1\\controllers\\tenantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC6F37E-4515-4F6C-9AFA-645B8E66D0AD}|CloverTest1\\CloverTest1.csproj|solutionrelative:clovertest1\\controllers\\tenantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CloverTest1\\appsettings.Development.json",
+              "ToolTip": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\appsettings.Development.json",
+              "RelativeToolTip": "CloverTest1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-15T04:36:36.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TenantsController.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Controllers\\TenantsController.cs",
+              "RelativeDocumentMoniker": "CloverTest1\\Controllers\\TenantsController.cs",
+              "ToolTip": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Controllers\\TenantsController.cs",
+              "RelativeToolTip": "CloverTest1\\Controllers\\TenantsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T05:39:49.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250610_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Data\\Migrations\\20250610_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CloverTest1\\Data\\Migrations\\20250610_InitialCreate.cs",
+              "ToolTip": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Data\\Migrations\\20250610_InitialCreate.cs",
+              "RelativeToolTip": "CloverTest1\\Data\\Migrations\\20250610_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T04:57:55.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DbSeed.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Data\\DbSeed.cs",
+              "RelativeDocumentMoniker": "CloverTest1\\Data\\DbSeed.cs",
+              "ToolTip": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Data\\DbSeed.cs",
+              "RelativeToolTip": "CloverTest1\\Data\\DbSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T04:55:43.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CloverTest1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CloverTest1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T04:32:50.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "CloverTest1\\Domain\\Order.cs",
+              "ToolTip": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Domain\\Order.cs",
+              "RelativeToolTip": "CloverTest1\\Domain\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T04:32:40.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "CloverTest1\\Domain\\Product.cs",
+              "ToolTip": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Domain\\Product.cs",
+              "RelativeToolTip": "CloverTest1\\Domain\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T04:32:28.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Domain\\Tenant.cs",
+              "RelativeDocumentMoniker": "CloverTest1\\Domain\\Tenant.cs",
+              "ToolTip": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Domain\\Tenant.cs",
+              "RelativeToolTip": "CloverTest1\\Domain\\Tenant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T04:32:06.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CloverTest1.csproj",
+              "DocumentMoniker": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\CloverTest1.csproj",
+              "RelativeDocumentMoniker": "CloverTest1\\CloverTest1.csproj",
+              "ToolTip": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\CloverTest1.csproj",
+              "RelativeToolTip": "CloverTest1\\CloverTest1.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-10T04:31:40.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "schema.sql",
+              "DocumentMoniker": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Database\\schema.sql",
+              "RelativeDocumentMoniker": "CloverTest1\\Database\\schema.sql",
+              "ToolTip": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Database\\schema.sql",
+              "RelativeToolTip": "CloverTest1\\Database\\schema.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-10T04:36:40Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CloverOptions.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Services\\Clover\\CloverOptions.cs",
+              "RelativeDocumentMoniker": "CloverTest1\\Services\\Clover\\CloverOptions.cs",
+              "ToolTip": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Services\\Clover\\CloverOptions.cs",
+              "RelativeToolTip": "CloverTest1\\Services\\Clover\\CloverOptions.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAABBwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T04:34:04.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CloverClient.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Services\\Clover\\CloverClient.cs",
+              "RelativeDocumentMoniker": "CloverTest1\\Services\\Clover\\CloverClient.cs",
+              "ToolTip": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Services\\Clover\\CloverClient.cs",
+              "RelativeToolTip": "CloverTest1\\Services\\Clover\\CloverClient.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAEBVwMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T04:33:52.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICloverClient.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Services\\Clover\\ICloverClient.cs",
+              "RelativeDocumentMoniker": "CloverTest1\\Services\\Clover\\ICloverClient.cs",
+              "ToolTip": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Services\\Clover\\ICloverClient.cs",
+              "RelativeToolTip": "CloverTest1\\Services\\Clover\\ICloverClient.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T04:33:42.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TenantProvider.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Services\\TenantProvider.cs",
+              "RelativeDocumentMoniker": "CloverTest1\\Services\\TenantProvider.cs",
+              "ToolTip": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Services\\TenantProvider.cs",
+              "RelativeToolTip": "CloverTest1\\Services\\TenantProvider.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAEBVwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T04:33:32.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITenantProvider.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Services\\ITenantProvider.cs",
+              "RelativeDocumentMoniker": "CloverTest1\\Services\\ITenantProvider.cs",
+              "ToolTip": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Services\\ITenantProvider.cs",
+              "RelativeToolTip": "CloverTest1\\Services\\ITenantProvider.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAMBcwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T04:33:02.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Program.cs",
+              "RelativeDocumentMoniker": "CloverTest1\\Program.cs",
+              "ToolTip": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Program.cs",
+              "RelativeToolTip": "CloverTest1\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAEBVwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T04:35:55.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CloverController.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Controllers\\CloverController.cs",
+              "RelativeDocumentMoniker": "CloverTest1\\Controllers\\CloverController.cs",
+              "ToolTip": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Controllers\\CloverController.cs",
+              "RelativeToolTip": "CloverTest1\\Controllers\\CloverController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAEBVwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T04:35:36.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductFilterService.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Services\\Filtering\\ProductFilterService.cs",
+              "RelativeDocumentMoniker": "CloverTest1\\Services\\Filtering\\ProductFilterService.cs",
+              "ToolTip": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Services\\Filtering\\ProductFilterService.cs",
+              "RelativeToolTip": "CloverTest1\\Services\\Filtering\\ProductFilterService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAEBVwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T04:35:16.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductFilterService.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Services\\Filtering\\IProductFilterService.cs",
+              "RelativeDocumentMoniker": "CloverTest1\\Services\\Filtering\\IProductFilterService.cs",
+              "ToolTip": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Services\\Filtering\\IProductFilterService.cs",
+              "RelativeToolTip": "CloverTest1\\Services\\Filtering\\IProductFilterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T04:35:07.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CloverItem.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Services\\Clover\\Models\\CloverItem.cs",
+              "RelativeDocumentMoniker": "CloverTest1\\Services\\Clover\\Models\\CloverItem.cs",
+              "ToolTip": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Services\\Clover\\Models\\CloverItem.cs",
+              "RelativeToolTip": "CloverTest1\\Services\\Clover\\Models\\CloverItem.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAKBiwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T04:34:40.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CloverItemsResponse.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Services\\Clover\\Models\\CloverItemsResponse.cs",
+              "RelativeDocumentMoniker": "CloverTest1\\Services\\Clover\\Models\\CloverItemsResponse.cs",
+              "ToolTip": "C:\\Repos\\DotNetPractice\\CloverTest1\\CloverTest1\\Services\\Clover\\Models\\CloverItemsResponse.cs",
+              "RelativeToolTip": "CloverTest1\\Services\\Clover\\Models\\CloverItemsResponse.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAABZwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T04:34:19.712Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

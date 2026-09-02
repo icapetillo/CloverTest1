@@ -1,0 +1,15 @@
+﻿using System;
+
+namespace CloverTest1.Domain
+{
+    public class Tenant
+    {
+        public Guid Id { get; set; }
+        public string Name { get; set; } = null!;
+        public string? ConnectionString { get; set; }
+
+        // Additional metadata for white-label
+        public string? BrandDisplayName { get; set; }
+        public string? ApiKey { get; set; }
+    }
+}

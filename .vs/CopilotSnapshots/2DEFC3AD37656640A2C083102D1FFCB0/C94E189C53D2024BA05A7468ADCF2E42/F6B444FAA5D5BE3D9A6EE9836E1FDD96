@@ -1,0 +1,47 @@
+﻿using System;
+using System.Net.Http;
+using System.Net.Http.Headers;
+using System.Text.Json;
+using System.Threading.Tasks;
+using System.Collections.Generic;
+using CloverTest1.Services.Clover.Models;
+
+namespace CloverTest1.Services.Clover
+{
+    public class CloverClient : ICloverClient
+    {
+        private readonly HttpClient _http;
+        private readonly CloverOptions _options;
+
+        public CloverClient(HttpClient http, CloverOptions options)
+        {
+            _http = http;
+            _options = options;
+        }
+
+        public async Task<IEnumerable<CloverItem>> GetItemsAsync()
+        {
+            // This is a simplified example. Real implementation should handle OAuth token refresh, paging, errors.
+            var request = new HttpRequestMessage(HttpMethod.Get, $"/v3/merchants/{_options.MerchantId}/items");
+            request.Headers.Authorization = new AuthenticationHeaderValue("Bearer", _options.AccessToken);
+
+            var resp = await _http.SendAsync(request);
+            resp.EnsureSuccessStatusCode();
+
+            using var stream = await resp.Content.ReadAsStreamAsync();
+            var doc = await JsonSerializer.DeserializeAsync<CloverItemsResponse>(stream, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
+            if (doc?.Elements == null) return Array.Empty<CloverItem>();
+
+            // Normalize cent amounts to decimals
+            foreach (var item in doc.Elements)
+            {
+                if (item.PriceInCents.HasValue)
+                {
+                    item.Price = item.PriceInCents.Value / 100m;
+                }
+            }
+
+            return doc.Elements;
+        }
+    }
+}

@@ -1,0 +1,9 @@
+﻿using System.Collections.Generic;
+
+namespace CloverTest1.Services.Clover.Models
+{
+    public class CloverItemsResponse
+    {
+        public List<CloverItem>? Elements { get; set; }
+    }
+}
